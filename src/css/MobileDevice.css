@@ -1,0 +1,47 @@
+.mobile-device {
+    width: 300px;
+    height: 640px;
+    border: solid 4px darkslategray;
+    border-radius: 25px;
+    position: relative;
+}
+
+.content-view {
+    padding: 15px;
+    padding-top: 30px;
+}
+
+.large-title {
+    margin: 0;
+}
+
+.block-item {
+    height: 85px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.button-type-1 {
+    height: 47px;
+    text-align: center;
+    border-radius: 10px;
+    line-height: 47px;
+}
+
+.button-type-2 {
+    height: 45px;
+    text-align: center;
+    border-radius: 10px;
+    line-height: 45px;
+    border: solid 2px;
+}
+
+#icon-1 {
+    padding-left: 25px;
+}
+
+#icon-3 {
+    padding-right: 25px;
+}
